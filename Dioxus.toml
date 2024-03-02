@@ -14,7 +14,7 @@ out_dir = "docs"
 asset_dir = "public"
 
 [web.app]
-base_path = "https://github.com/LigeronAhill/nike-rs"
+base_path = "nike-rs"
 # HTML title tag content
 title = "Nike"
 
