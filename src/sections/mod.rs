@@ -1,0 +1,18 @@
+mod navigation;
+pub use navigation::NavBar;
+mod hero_section;
+pub use hero_section::Hero;
+mod popular_products;
+pub use popular_products::PopularProducts;
+mod super_quality;
+pub use super_quality::SuperQuality;
+mod service;
+pub use service::Services;
+mod special_offer;
+pub use special_offer::SpecialOffer;
+mod customer_reviews;
+pub use customer_reviews::CustomerReviews;
+mod subscribe;
+pub use subscribe::Subscribe;
+mod footer;
+pub use footer::Footer;
